@@ -1,0 +1,31 @@
+   *{ 
+       PADDING: 0PX;
+       MARGIN: 0PX;
+   }
+   .outer{
+       width: 700px;
+       hight: 800px;
+      
+       margin: 0px auto;
+   }
+   .OUTER H1{
+       text-align: CENTER;
+   }
+   P{
+       FONT-SIZE: 20PX;
+   }
+   .border{
+       width: 700px;
+       padding: 5px;
+       background-color: cadetblue;
+       border: 1px solid black;
+    
+   }
+   s
+   UL { 
+       FONT-size: 30px;
+       margin-left: 50px;
+   }
+   h2 {
+       float:right;
+   }
